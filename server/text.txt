@@ -1,0 +1,12 @@
+npm install express mongoose body-parser multer
+
+
+npm install cors
+
+npm install jsonwebtoken
+
+
+npm install shortid
+
+
+npm install mongoose
